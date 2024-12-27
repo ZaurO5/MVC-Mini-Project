@@ -18,8 +18,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
+    <Folder Include="Models\Home\" />
+    <Folder Include="Models\About\" />
+    <Folder Include="Models\Contact\" />
+    <Folder Include="Models\Shop\" />
+    <Folder Include="Models\News\" />
+    <Folder Include="Models\Pages\" />
   </ItemGroup>
 
 </Project>
